@@ -10,3 +10,5 @@
 ## All functions created in same way
 
 ## I added tests for this lab two to check first and second number to check Nigative values
+
+## In this lab I worked in master branch because there is no requirment to create new one 
